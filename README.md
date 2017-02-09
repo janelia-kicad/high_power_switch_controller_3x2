@@ -1,4 +1,4 @@
-#hitfet_controller_3x2
+#high_power_switch_controller_3x2
 
 Authors:
 

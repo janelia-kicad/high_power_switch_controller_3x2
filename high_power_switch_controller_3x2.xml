@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/polidorop/git/kicad/hitfet_controller_3x2/hitfet_controller_3x2.sch</source>
+    <source>/home/polidorop/git/kicad/high_power_switch_controller_3x2/high_power_switch_controller_3x2.sch</source>
     <date>Wed 08 Feb 2017 01:52:27 PM EST</date>
     <tool>Eeschema no-vcs-found-7602~57~ubuntu16.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>hitfet_controller_3x2</title>
+        <title>high_power_switch_controller_3x2</title>
         <company>Janelia</company>
         <rev>1.0</rev>
         <date/>
-        <source>hitfet_controller_3x2.sch</source>
+        <source>high_power_switch_controller_3x2.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -21,24 +21,24 @@
   <components>
     <comp ref="MDB1">
       <value>MODULAR_DEVICE_BASE_3X2_MALE</value>
-      <footprint>hitfet_controller_3x2:MODULAR_DEVICE_BASE_3X2_MALE</footprint>
+      <footprint>high_power_switch_controller_3x2:MODULAR_DEVICE_BASE_3X2_MALE</footprint>
       <fields>
         <field name="Vendor">digikey</field>
         <field name="PartNumber">S1011E-16-ND</field>
         <field name="Description">16 Position Header Through Hole Male Pins</field>
         <field name="PartCount">2</field>
       </fields>
-      <libsource lib="hitfet_controller_3x2" part="MODULAR_DEVICE_BASE_3X2_MALE"/>
+      <libsource lib="high_power_switch_controller_3x2" part="MODULAR_DEVICE_BASE_3X2_MALE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>589B6745</tstamp>
     </comp>
   </components>
   <libparts>
-    <libpart lib="hitfet_controller_3x2" part="MODULAR_DEVICE_BASE_3X2_MALE">
+    <libpart lib="high_power_switch_controller_3x2" part="MODULAR_DEVICE_BASE_3X2_MALE">
       <fields>
         <field name="Reference">MDB</field>
         <field name="Value">MODULAR_DEVICE_BASE_3X2_MALE</field>
-        <field name="Footprint">hitfet_controller_3x2:MODULAR_DEVICE_BASE_3X2_MALE</field>
+        <field name="Footprint">high_power_switch_controller_3x2:MODULAR_DEVICE_BASE_3X2_MALE</field>
         <field name="Vendor">digikey</field>
         <field name="PartNumber">S1011E-16-ND</field>
         <field name="Description">16 Position Header Through Hole Male Pins</field>
@@ -81,8 +81,8 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="hitfet_controller_3x2">
-      <uri>/home/polidorop/git/kicad/hitfet_controller_3x2/hitfet_controller_3x2.lib</uri>
+    <library logical="high_power_switch_controller_3x2">
+      <uri>/home/polidorop/git/kicad/high_power_switch_controller_3x2/high_power_switch_controller_3x2.lib</uri>
     </library>
   </libraries>
   <nets>
